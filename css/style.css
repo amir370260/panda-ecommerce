@@ -22,3 +22,34 @@ font-family: 'Poppins', sans-serif; */
     font-family: 'Poppins', sans-serif;
     
 }
+
+/* ----------------------
+slider css
+----------------------- */
+.slider{
+    background: #FEEAE9
+    ;
+    padding: 35px;
+}
+.slider-l h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 46px;
+    font-weight: 700;
+}
+.slider-l p{
+    font-size: 14px;
+}
+.slider-l h3{
+    font-size: 40px;
+    color: rgb(230, 28, 105);
+    font-family: 'Poppins', sans-serif;
+}
+.b-btn{
+    background: linear-gradient(#FF589B,#FF136F);
+    border: none;
+    width: 130px;
+    height: 41px;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    border-radius: 6px;
+}
