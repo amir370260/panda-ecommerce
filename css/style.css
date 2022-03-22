@@ -8,3 +8,17 @@ p{
 }
 /* font-family: 'Inter', sans-serif;
 font-family: 'Poppins', sans-serif; */
+
+/* header css */
+.form-control {
+    width: 330px;
+    color: #e8e9eb;
+    background-color: #f1f1f185;
+    border: none;
+    border-radius: 6.25rem;
+}
+.nav-link{
+    margin: 0 7px;
+    font-family: 'Poppins', sans-serif;
+    
+}
