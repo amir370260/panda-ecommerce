@@ -9,7 +9,9 @@ p{
 /* font-family: 'Inter', sans-serif;
 font-family: 'Poppins', sans-serif; */
 
-/* header css */
+/*--------------------------
+ header css
+ --------------------------*/
 .form-control {
     width: 330px;
     color: #e8e9eb;
@@ -52,4 +54,7 @@ slider css
     color: #fff;
     font-family: 'Inter', sans-serif;
     border-radius: 6px;
+}
+.rounded-3 {
+    border-radius: 1.3rem!important;
 }
