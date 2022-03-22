@@ -6,6 +6,12 @@ body{
 p{
     font-family: 'Inter', sans-serif !important;
 }
+:root{
+    --main-font:'Poppins', sans-serif;
+}
+.def-margin{
+  margin: 80px 0;
+}
 /* font-family: 'Inter', sans-serif;
 font-family: 'Poppins', sans-serif; */
 
@@ -55,6 +61,35 @@ slider css
     font-family: 'Inter', sans-serif;
     border-radius: 6px;
 }
-.rounded-3 {
+.rounded-4 {
     border-radius: 1.3rem!important;
+}
+
+/* ---------------------
+three category css
+--------------------- */
+.s-title{
+    font-family: var(--main-font);
+    font-size: 35px;
+    font-weight: 700;
+}
+.bg-one{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+    border-radius: 15px;
+}
+.bg-two{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+    border-radius: 15px;
+
+}
+.bg-three{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 15px;
+
+}
+.c-item h3{
+    font-family: var(--main-font);
+    color: #fff;
+    font-size: 34px;
+    font-weight: 400;
 }
